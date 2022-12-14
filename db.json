@@ -1,9 +1,354 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "user": [
+    {
+      "image": "https://rukminim1.flixcart.com/image/200/200/printer/j/j/y/hp-laserjet-m1005-multifunction-original-imadxhzpeb9qbrfg.jpeg?q=70",
+      "price": "443.51",
+      "name": "Meaghan",
+      "description": "tempora nostrum praesentium",
+      "id": "1"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/200/200/l5jxt3k0/dslr-camera/m/n/a/-original-imagg7hsggshhwbz.jpeg?q=70",
+      "price": "485.66",
+      "name": "Mireille",
+      "description": "culpa modi quam",
+      "id": "2"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/200/200/hair-dryer/c/t/g/philips-hp8100-46-original-imaemymzuxrnzfjb.jpeg?q=70",
+      "price": "203.26",
+      "name": "Emmanuelle",
+      "description": "voluptate unde consectetur",
+      "id": "3"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/200/200/kynb6vk0/monitor/1/n/s/lf22t354fhwxxl-full-hd-22-lf22t354fhwxxl-samsung-original-imagats2rjbg9uhv.jpeg?q=70",
+      "price": "427.61",
+      "name": "Taryn",
+      "description": "pariatur cupiditate sit",
+      "id": "4"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/200/200/krtjgcw0/headphone/d/9/g/au-mh501-maono-original-imag5j35rffkwpac.jpeg?q=70",
+      "price": "635.46",
+      "name": "Allison",
+      "description": "veniam dolorem veniam",
+      "id": "5"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l1dwknk0/mobile/f/t/x/-original-imagcyj4unsxhadw.jpeg?q=70",
+      "price": "710.97",
+      "name": "Schuyler",
+      "description": "nesciunt voluptates animi",
+      "id": "6"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70",
+      "price": "998.93",
+      "name": "Melba",
+      "description": "veritatis aspernatur non",
+      "id": "7"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/khdqnbk0/computer/f/y/t/apple-original-imafxfyqydgvrkzv.jpeg?q=70",
+      "price": "86.90",
+      "name": "Cecilia",
+      "description": "iure quam dolores",
+      "id": "8"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/kpinwy80/headphone/x/r/e/mmef2hn-a-apple-original-imag3qe9hphsevrt.jpeg?q=70",
+      "price": "87.34",
+      "name": "Marta",
+      "description": "velit tempora animi",
+      "id": "9"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/kg8avm80/mobile/r/h/z/apple-iphone-12-dummyapplefsn-original-imafwg8duby8qbn4.jpeg?q=70",
+      "price": "776.31",
+      "name": "Krystal",
+      "description": "impedit quia nemo",
+      "id": "10"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/kgqvlow0/battery-charger/d/a/7/apple-mhjd3hn-a-original-imafwwwfg5xgcctm.jpeg?q=70",
+      "price": "180.69",
+      "name": "Ryder",
+      "description": "nam sint quidem",
+      "id": "11"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/300/300/kpinwy80/headphone/x/r/e/mmef2hn-a-apple-original-imag3qe9hphsevrt.jpeg?q=90",
+      "price": "951.87",
+      "name": "Lavada",
+      "description": "ea nemo cum",
+      "id": "12"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/kmwcuq80/mobile-skin/o/m/5/mdsh-skin-apr2021-5388-mudshi-original-imagfpfu2zah5qzc.jpeg?q=70",
+      "price": "633.72",
+      "name": "Colton",
+      "description": "qui ut ipsam",
+      "id": "13"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l37mtu80/washing-machine-new/m/d/s/-original-imagedm8qgrzh6fb.jpeg?q=70",
+      "price": "911.66",
+      "name": "Delphia",
+      "description": "itaque doloremque doloremque",
+      "id": "14"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l0igvww0/refrigerator-new/c/q/i/-original-imagcafhrugmz229.jpeg?q=70",
+      "price": "668.30",
+      "name": "Devon",
+      "description": "tenetur dolor dolorem",
+      "id": "15"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/ktuewsw0/air-cooler/w/m/s/119-120-alfa-28e-28-voltas-original-imag73zyrgav5sg6.jpeg?q=70",
+      "price": "481.87",
+      "name": "Carmel",
+      "description": "consectetur dicta perspiciatis",
+      "id": "16"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/television/e/i/4/-original-imagjs2zpnzkngq6.jpeg?q=70",
+      "price": "667.67",
+      "name": "Estelle",
+      "description": "quas aut tempora",
+      "id": "17"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/l0igvww0/air-cooler/t/n/s/190-190-creta-60-candes-original-imagcaauqgzhsvtp.jpeg?q=70",
+      "price": "940.68",
+      "name": "Orlando",
+      "description": "quod sint qui",
+      "id": "18"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/kgl5ua80/washing-machine-new/k/w/s/105fliwbm5dg-motorola-original-imafwse6knmbgy48.jpeg?q=70",
+      "price": "892.85",
+      "name": "Elmira",
+      "description": "repudiandae eum laudantium",
+      "id": "19"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/300/300/l5fnhjk0/chimney/d/q/c/1200-2022-180-60-hood-mercury-pro-hc-sc-fl-bk-60-1200-faber-original-imagg4fxa5fw2atg.jpeg?q=90",
+      "price": "443.93",
+      "name": "Peyton",
+      "description": "nam libero eaque",
+      "id": "20"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/k65d18w0/refrigerator-new/g/6/q/neo-df278-prm-magnum-steel-2s-n-2-whirlpool-original-imafzzeekhfmhx5z.jpeg?q=70",
+      "price": "108.18",
+      "name": "Raquel",
+      "description": "sint occaecati ipsam",
+      "id": "21"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/300/300/xif0q/chimney/j/i/b/-original-imagkjrtgwny9yrz.jpeg?q=90",
+      "price": "622.84",
+      "name": "Van",
+      "description": "architecto voluptate consectetur",
+      "id": "22"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/iron/b/4/u/philips-gc-026-30-original-imaeyrf76qfpewkv.jpeg?q=70",
+      "price": "223.97",
+      "name": "Jovani",
+      "description": "reprehenderit numquam nobis",
+      "id": "23"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/k5vcya80pkrrdj/iron-refurbished/g/z/5/u-gc1905-philips-original-imafz362cpfznhwt.jpeg?q=70",
+      "price": "96.39",
+      "name": "Evert",
+      "description": "fuga repellendus voluptas",
+      "id": "24"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/ji20r680/vacuum-cleaner/8/t/f/philips-powerpro-compact-fc9352-01-bagless-original-imaf5xqwak9evffz.jpeg?q=70",
+      "price": "276.40",
+      "name": "Faye",
+      "description": "placeat impedit repudiandae",
+      "id": "25"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/kialrww0-0/air-purifier/y/0/e/ac2887-20-883-4887-20280-philips-original-imafy42cvfzg579d.jpeg?q=70",
+      "price": "981.04",
+      "name": "Xzavier",
+      "description": "consequatur nesciunt quasi",
+      "id": "26"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/kmf7ki80/iron/b/k/r/sth3000-20-philips-original-imagfbmfp7ddhtvf.jpeg?q=70",
+      "price": "199.77",
+      "name": "Zoey",
+      "description": "natus mollitia voluptatem",
+      "id": "27"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2qhjm80/television/x/b/y/-original-imageydsxgyvhbed.jpeg?q=70",
+      "price": "917.69",
+      "name": "Gaston",
+      "description": "placeat laudantium dolores",
+      "id": "28"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/k5zn9u80/induction-cook-top/r/q/z/philips-phlps-2100-watt-induction-cooktop-black-original-imaf95d6gupffzr9.jpeg?q=70",
+      "price": "517.92",
+      "name": "Violet",
+      "description": "dolorem voluptates impedit",
+      "id": "29"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/150/150/kthjy4w0/water-purifier/e/u/s/ace-plus-kent-original-imag6tz43kut2rvh.jpeg?q=70",
+      "price": "119.81",
+      "name": "Hilma",
+      "description": "adipisci ut nam",
+      "id": "30"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/flap/50/50/image/f4fe65d35f66b443.jpg?q=50",
+      "price": "602.15",
+      "name": "Antonio",
+      "description": "nulla quam maiores",
+      "id": "31"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/300/300/xif0q/microwave-new/r/i/e/-original-imagh9a3gutwzg5t.jpeg?q=90",
+      "price": "703.70",
+      "name": "Hertha",
+      "description": "dolor possimus voluptatibus",
+      "id": "32"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l3ys70w0/mixer-grinder-juicer/a/a/z/power-pro-zunvolt-original-imageyytee2spjja.jpeg?q=70",
+      "price": "47.20",
+      "name": "Rashawn",
+      "description": "suscipit perferendis repudiandae",
+      "id": "33"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l4x2rgw0/television/e/i/k/-original-imagfpejzvnepwvn.jpeg?q=70",
+      "price": "322.34",
+      "name": "Karelle",
+      "description": "voluptates dignissimos architecto",
+      "id": "34"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mixer-grinder-juicer/k/5/n/juicer-super-pro-bostton-original-imaggg45v5hrmhan.jpeg?q=70",
+      "price": "499.44",
+      "name": "Noemy",
+      "description": "delectus ipsum quasi",
+      "id": "35"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/wet-grinder/g/m/y/coffee-grinder-multi-functional-electric-stainless-steel-herbs-original-imaggdhfwhhucn63.jpeg?q=70",
+      "price": "931.34",
+      "name": "Taylor",
+      "description": "quo debitis maxime",
+      "id": "36"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/jqv8ia80/mixer-grinder-juicer/w/n/6/butterfly-arrow-original-imafcz43zxwekpzc.jpeg?q=70",
+      "price": "756.26",
+      "name": "Blaise",
+      "description": "inventore eveniet illum",
+      "id": "37"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/150/150/kt39jm80/voltage-stabilizer/k/d/r/mini-crystal-supreme-mini-crystal-supreme-v-guard-original-imag6hsqwbhczkvk.jpeg?q=70",
+      "price": "336.51",
+      "name": "Demarcus",
+      "description": "qui enim corporis",
+      "id": "38"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/150/150/kosxzm80/television/5/p/e/rmv2005-realme-original-imag36hxruzv9wex.jpeg?q=70",
+      "price": "80.76",
+      "name": "Norwood",
+      "description": "temporibus dolor dolores",
+      "id": "39"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/300/300/kwxv98w0/headphone/s/c/j/-original-imag9hxj7qmmyqmh.jpeg?q=90",
+      "price": "251.55",
+      "name": "Wava",
+      "description": "dicta dolor id",
+      "id": "40"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/300/300/kua4r680/headphone/n/l/k/nb119-titanium-48-hours-neckband-aroma-original-imag7ftkzfyeduat.jpeg?q=90",
+      "price": "335.87",
+      "name": "Kaela",
+      "description": "rerum eaque sequi",
+      "id": "41"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l4d2ljk0/mobile/z/i/s/-original-imagf9wt7v5pugmy.jpeg?q=70",
+      "price": "265.18",
+      "name": "Dallin",
+      "description": "voluptatibus impedit sequi",
+      "id": "42"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/150/150/kqidx8w0/television/o/h/9/43fa0a00-oneplus-original-imag4gy9perzvrdv.jpeg?q=70",
+      "price": "201.57",
+      "name": "Isabell",
+      "description": "corporis nesciunt alias",
+      "id": "43"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/150/150/kcauaa80/freezer-chest/b/y/7/chfsd200fhpw-blue-star-original-imaftge7799yvzpw.jpeg?q=70",
+      "price": "94.16",
+      "name": "Kelvin",
+      "description": "a aliquid natus",
+      "id": "44"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/jm6mjrk0/induction-cook-top/h/z/y/philips-hd4938-hd4938-01-original-imaf95d6huy2hvuy.jpeg?q=70",
+      "price": "171.19",
+      "name": "Nils",
+      "description": "delectus cumque eligendi",
+      "id": "45"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l12h1u80/mobile/i/v/x/-original-imagcq2qkvz8ddp6.jpeg?q=70",
+      "price": "432.85",
+      "name": "Lucas",
+      "description": "aperiam quae iste",
+      "id": "46"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/150/150/kk2wl8w0/egg-cooker/x/e/n/double-layer-electric-egg-boiler-ny-egg-egg-cooker-14-eggs-egg-original-imafzgfbns4a6gtg.jpeg?q=70",
+      "price": "186.26",
+      "name": "William",
+      "description": "nostrum cupiditate iusto",
+      "id": "47"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l0jwbrk0/tablet/1/d/4/-original-imagcbjg9qd9hpfk.jpeg?q=70",
+      "price": "229.50",
+      "name": "Angel",
+      "description": "deleniti quis tempora",
+      "id": "48"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/kyhlfgw0/electric-kettle/p/a/p/zek-1511-aqua-ace-1500-w-stainless-steel-double-wall-zigma-original-imagapzdhsvzg3xm.jpeg?q=70",
+      "price": "893.63",
+      "name": "Margarett",
+      "description": "illum corrupti consectetur",
+      "id": "49"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/312/312/ktop5e80/tablet/x/9/o/mk2k3hn-a-apple-original-imag6yy7xjjugz4w.jpeg?q=70",
+      "price": "496.17",
+      "name": "Marlon",
+      "description": "dolorum tenetur nemo",
+      "id": "50"
+    }  
+  ]
 }
